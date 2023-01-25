@@ -1,0 +1,2 @@
+2023-01-25 13:38:22.9125 INFO TimeTracker Data obteined satisfacorily!
+2023-01-25 13:42:52.2614 INFO TimeTracker Data obteined satisfacorily!

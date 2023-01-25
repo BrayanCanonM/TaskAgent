@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ULqVqa4giEmMli6HIR8oIsY/tlio6jE45+6zyeMPVuc=",
+  "Source": "TaskAgent",
+  "BasePath": "_content/TaskAgent",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
